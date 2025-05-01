@@ -7,6 +7,4 @@ permalink: /demo/
 
 ## 立即加入Elytracraft
 
-[点我加入QQ群](https://qm.qq.com/q/EpOu2C4Nfq)
-
-![QQ群](/qun.jpg)
+**QQ审核群：1040498439**

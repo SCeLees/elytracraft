@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/Invicon_Elytra.png' }],
   ],
 
   bundler: viteBundler(),
@@ -23,10 +23,9 @@ export default defineUserConfig({
       title: 'Elytracraft交流群',
       contentType: 'markdown', 
       content: `\
-**交流群：980199136**
+**QQ审核群：1040498439**
 
-- [立即加入我们](https://www.elytracraft.cn/demo/)
-- [或点击加入群聊](https://qm.qq.com/q/EpOu2C4Nfq)
+- **快来加入我们吧！！！**
 `,
     },
     
