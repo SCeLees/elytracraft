@@ -103,13 +103,25 @@ config:
     description: 感谢这些人的支持
     list:
       -
-        title: 枫林晚
+        title: 保安
         description: 是服务器的腐竹呀。😲😲😲
+      -
+        title: Traveller_MC
+        description: 服务器技术支持。
+      -
+        title: HuajiYa
+        description: 服务器技术支持。
+      -
+        title: HappyBoy807
+        description: 服务器技术支持。
+      -
+        title: Ee_Yu
+        description: 服务器技术支持。
       -
         title: GTSense
         description: 服务器技术支持，本网站创建者。
       -
-        title: 服务器内的玩家们
+        title: ...
         description: 🤓🤓🤓
   -
     type: custom
