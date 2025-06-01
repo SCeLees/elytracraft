@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: '/Invicon_Elytra.png',
+  logo: '/icon.png',
 
   appearance: true,  // 配置 深色模式
 
@@ -37,7 +37,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/Invicon_Elytra.png',
+    avatar: '/icon.png',
     name: 'Elytracraft Official Website',
     description: 'Elytracraft.cn',
     // circle: true,
