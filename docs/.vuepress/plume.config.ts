@@ -37,7 +37,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/icon.png',
+    avatar: '/avatar.png',
     name: 'Elytracraft Official Website',
     description: 'Elytracraft.cn',
     // circle: true,
