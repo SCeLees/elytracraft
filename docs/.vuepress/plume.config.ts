@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: '/avatar.png',
+  logo: '/icon.png',
 
   appearance: true,  // 配置 深色模式
 
@@ -32,17 +32,19 @@ export default defineThemeConfig({
   //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
   //   copyright: '',
   // },
-  
+
   footer: {
     message: '<a href="https://icp.gov.moe/?keyword=20259978" target="_blank">萌ICP备20259978号</a>',
     copyright: 'Copyright © 2025 Elytracraft',
   },
-  
+
+
+
   /**
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/icon.png',
+    avatar: '/avatar.png',
     name: 'Elytracraft Official Website',
     description: 'Elytracraft.cn',
     // circle: true,
