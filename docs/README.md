@@ -21,8 +21,8 @@ config:
           link: /
         -
           theme: alt
-          text: 博客 →
-          link: /blog/
+          text: 友情链接 →
+          link: /friends/ 
   -
     type: features
     features:
