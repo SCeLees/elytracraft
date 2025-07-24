@@ -32,7 +32,12 @@ export default defineThemeConfig({
   //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
   //   copyright: '',
   // },
-
+  
+  footer: {
+    message: '<a href="https://icp.gov.moe/?keyword=20259978" target="_blank">萌ICP备20259978号</a>',
+    copyright: 'Copyright © 2025 Elytracraft',
+  },
+  
   /**
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
