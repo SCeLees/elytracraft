@@ -10,7 +10,7 @@ list:
     avatar: "/avatar.jpg"
     location: 广东，中国
     organization: "VuePress，Node.js"
-    desc: "生活明朗，万物可爱。"
+    desc: "生活明朗，万物可爱"
     socials:
       -
         icon: github
@@ -21,7 +21,7 @@ list:
     avatar: "/avatar2.jpg"
     location: 广东，中国
     organization: "WordPress"
-    desc: "Hello World"
+    desc: "没有长青树，做自己的自由花"
     socials:
       -
         icon: github
