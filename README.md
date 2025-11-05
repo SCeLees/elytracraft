@@ -12,7 +12,7 @@
 ```sh
 npm install swiper
 ```
-请安装 `three` & `postprocessing` 库：
+请安装 `three` & `postprocessing` 依赖：
 ```sh
 pnpm add three postprocessing
 ```
